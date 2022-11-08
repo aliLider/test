@@ -1,0 +1,68 @@
+/* @font-face {
+    font-family: "gulchabchab";
+    src: url("../1/Acme/Acme-Regular.ttf") format("truetype");
+}
+.wrapper{
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-5Fst3Ei1xLfCLfVcXbaF70TDQQkIdmTpHA&usqp=CAU"), url("https://mintspace.io/wp-content/uploads/2021/10/623aa8f9933ee9a286871bf6e0782538.jpg");
+ /* background-size: cover;// *
+ background-repeat: no-repeat;
+ background-position: 0px  0px, 1000px 0px;
+}
+.wrapper a{
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid red;
+    text-decoration: none;
+    text-decoration: line-through;
+    text-decoration: dashed;
+    font-size: 10px;
+    font-weight: 800;
+}
+.wrapper p{
+    text-align: justify;
+    line-height: 20px;
+    word-spacing: 30px;
+    font-family: "gulchabchab", sans-serif;
+} */
+*{
+    background-color: #161D25;
+    color: #83ADDC;
+}
+.wrapper{
+    width: 900px;
+    height: 350px;
+    display:flex ;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    text-align: center;
+}
+.box8{
+    width: 22%;
+    background-color: #24303D;
+    border: 1p
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
